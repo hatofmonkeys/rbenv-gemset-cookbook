@@ -1,4 +1,13 @@
-rbenv-gemset-cookbook
-=====================
+# rbenv-gemset cookbook
 
-Installs and configures rbenv-gemset
+# Requirements
+
+# Usage
+
+# Attributes
+
+# Recipes
+
+# Author
+
+Author:: YOUR_NAME (<YOUR_EMAIL>)
