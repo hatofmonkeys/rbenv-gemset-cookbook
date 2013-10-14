@@ -1,3 +1,4 @@
+#encoding:utf-8
 name             'rbenv-gemset'
 maintainer       'José P. Airosa'
 maintainer_email 'me@joseairosa.com'
