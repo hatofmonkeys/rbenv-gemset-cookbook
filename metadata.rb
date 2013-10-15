@@ -1,10 +1,11 @@
+#encoding:utf-8
 name             'rbenv-gemset'
 maintainer       'José P. Airosa'
 maintainer_email 'me@joseairosa.com'
 license          'Apache 2.0'
 description      'Installs and Configures rbenv-gemset'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.0'
+version          '0.1.1'
 
 recipe 'rbenv-gemset', 'Installs and Configures rbenv-gemset'
 
