@@ -8,7 +8,7 @@
 #
 
 include_recipe 'git'
-include_recipe 'ruby_rbenv'
+# include_recipe 'ruby_rbenv'
 
 plugin_path = "#{node[:rbenv][:root]}/plugins/rbenv-gemset"
 
