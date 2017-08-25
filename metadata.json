@@ -15,7 +15,7 @@
     "oracle": ">= 0.0.0"
   },
   "dependencies": {
-    "rbenv": ">= 0.0.0",
+    "ruby_rbenv": ">= 0.0.0",
     "git": ">= 0.0.0"
   },
   "recommendations": {

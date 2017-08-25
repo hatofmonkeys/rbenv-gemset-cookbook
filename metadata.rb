@@ -11,4 +11,4 @@ recipe 'rbenv-gemset', 'Installs and Configures rbenv-gemset'
 
 %w{ centos redhat fedora ubuntu debian amazon oracle}.each { |os| supports os }
 
-%w{ rbenv git }.each { |d| depends d}
+%w{ ruby_rbenv git }.each { |d| depends d}
